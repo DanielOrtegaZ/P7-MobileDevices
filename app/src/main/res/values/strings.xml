@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">TimePicker</string>
+    <string name="morning">Good morning!</string>
+    <string name="afternoon">Good afternoon!</string>
+    <string name="night">Good night!</string>
+    <string name="test" translatable="false">TEST</string>
+    <string-array name="choiceValues" translatable="false">
+        <item>BTN ORANGE</item>
+        <item>BTN BLUE</item>
+    </string-array>
+</resources>
